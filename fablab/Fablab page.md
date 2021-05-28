@@ -1,2 +1,2 @@
-# You'll find tips and tricks on how to use our fablab
+# How it works
 This is an example
