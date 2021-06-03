@@ -181,7 +181,9 @@ sudo docker pull openanalytics/shinyproxy-demo
 ```
 
 ### Get Shiva archive and load it with docker:
+```sh
 docker load -i shiva.tar
+```
 
 ## Start the service
 
