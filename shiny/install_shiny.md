@@ -1,4 +1,3 @@
-
 # Install
 
 ## Install Docker (see official doc)
@@ -76,7 +75,6 @@ shiva.ciml.univ-amu.fr {
 ## Install Shiny (need java 8 not > 10)
 
 ```sh
-java -version
 sudo apt install openjdk-8-jre-headless
 # Must be 1.8
 java -version
